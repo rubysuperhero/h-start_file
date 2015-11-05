@@ -1,0 +1,5 @@
+# hiro start_file installation config
+# used by h-install
+
+bin:
+  bin/h-start_file
