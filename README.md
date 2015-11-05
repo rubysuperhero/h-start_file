@@ -8,6 +8,10 @@ The concept behind start files was born from several things:
 * knowing how efficient vanilla vim can be
 * vim not always doing what vim does best
 
+## To Do
+
+* record a video demonstrating how effective such a simple tool can be.
+
 ## What does a Start File Contain
 
 A start file contains a few things:
